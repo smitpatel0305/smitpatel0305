@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smitpatel0305
-- 👀 I’m interested in Data analytics and Data Science.
+- 👀 I’m interested in Data analytics and Software Devloper.
 - 🌱 I’m currently learning Numerical Analysis and Computing and Principles of Information and Data Management.
 - 💞️ I’m looking to collaborate on projects for getting an internship.
 - 📫 How to reach me - via github/email.
